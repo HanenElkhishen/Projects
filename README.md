@@ -1,7 +1,7 @@
 # 📊 Data Analysis Portfolio
 
 ## 👩‍💻 About Me
-My name is **Haneen**, a **20-year-old Data Analyst** with hands-on experience in **data analysis and statistics**.  
+My name is **Haneen**, **Data Analyst** with hands-on experience in **data analysis and statistics**.  
 I hold the **Google Advanced Data Analytics Professional Certificate** and continuously work on improving my analytical, statistical, and technical skills.
 
 I have practical experience working with real datasets, applying statistical techniques, and transforming raw data into meaningful insights to support data-driven decision-making.
