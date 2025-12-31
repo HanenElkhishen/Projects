@@ -86,7 +86,11 @@ I am actively enhancing my skills in:
 ---
 
 ## 📫 Contact
-**Haneen**  
+
+**Hanen El-Khishen**  
 *Data Analyst | Python | SQL | Statistics | Power BI | Tableau*
+
+📧 **Email:** hanenelkhishen2025@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/hanenhosamelkhishen](https://www.linkedin.com/in/hanenhosamelkhishen/)
 
 ⭐ Explore individual project folders to find detailed analyses and project-specific documentation.
