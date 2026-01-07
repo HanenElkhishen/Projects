@@ -213,6 +213,6 @@ The combination of data preparation, Pivot Table analysis, and dashboard visuali
 
 ---
 
-**Author:** Data Analyst Portfolio Project  
+**Author:** *HANEN Data Analyst **Portfolio Project***
 **Tools:** Microsoft Excel (Pivot Tables, Pivot Charts, Formulas, Dashboard Design)  
 **Date:** Jan 2025
