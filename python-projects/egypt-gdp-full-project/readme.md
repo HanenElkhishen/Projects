@@ -63,5 +63,5 @@ This notebook measures the **speed and health** of the economy, looking at the p
 3. Open the `.ipynb` files in Jupyter Notebook or VS Code to see the code and visualizations.
 
 ---
-**Prepared by:** [Your Name]  
-**Visualization:** All charts and analysis were custom-made using Python.
+**Prepared by:** Hanen El-Khishen 
+**Visualization:** All charts and analysis were custom-made by me.
