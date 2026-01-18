@@ -172,7 +172,7 @@ Contributions, suggestions, and feedback are welcome! Please feel free to:
 ## 📧 Contact
 
 For questions, collaborations, or feedback, please reach out through:
-- LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hanenhosamelkhishen/))
+- LinkedIn: (https://www.linkedin.com/in/hanenhosamelkhishen/)
 - Email: hanenelkhishen2025@gmail.com
 
 ---
