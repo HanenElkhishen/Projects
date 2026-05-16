@@ -1,96 +1,91 @@
-# 📊 Data Analysis Portfolio
+# Hanen El-Khishen — Analytics Engineer Portfolio
 
-## 👩‍💻 About Me
-My name is **Hanen El-Khishen**, **Data Analyst** with hands-on experience in **data analysis and statistics**.  
-I hold the **Google Advanced Data Analytics Professional Certificate** and continuously work on improving my analytical, statistical, and technical skills.
+## About Me
 
-I have practical experience working with real datasets, applying statistical techniques, and transforming raw data into meaningful insights to support data-driven decision-making.
+I'm **Hanen El-Khishen**, an **Analytics Engineer** with a strong foundation in data engineering, business intelligence, and advanced analytics.
 
----
+My work sits at the intersection of **data engineering and analytics** — I design and build reliable data pipelines, model data for analytical use, and translate complex datasets into actionable business insights.
 
-## 🎯 Repository Purpose
-This repository serves as a **professional Data Analysis portfolio**.
-
-Each folder in this repository represents an **individual data analysis project**, and:
-- Every project folder contains a **complete analysis**
-- Each project includes a **dedicated README file** that clearly explains:
-  - Project objective
-  - Dataset overview
-  - Statistical methods and analysis approach
-  - Key findings and insights
-
-This structure ensures clarity, organization, and professional presentation.
+I hold multiple professional certifications across data engineering and analytics, and I continuously deepen my expertise in open-source data stack tooling, warehouse design, and scalable pipeline architecture.
 
 ---
 
-## 🛠️ Data Analysis Tools & Technologies
+## Certifications
 
-### 🔹 Programming & Querying
-- **Python**
-- **SQL** (Data querying, filtering, joins, aggregations)
+| Certification | Issuer |
+|---|---|
+| Google Advanced Data Analytics Professional | Google / Coursera |
+| IBM Data Engineer Professional Certificate | IBM / Coursera |
+| IBM Data Warehouse Engineer | IBM / Coursera |
+| ITI Business Intelligence Track — 120 Hours | Information Technology Institute |
+| DEPI Data Analytics Track — 6 Months | Digital Egypt Pioneers Initiative |
+| AI & Data Science Program — 4 Months | University of Tokyo |
 
-### 🔹 Python Libraries
-- **pandas** – Data manipulation and analysis
-- **NumPy** – Numerical computations
-- **SciPy** – Statistical analysis
+---
 
-### 🔹 Data Visualization & BI Tools
-- **Matplotlib** – Data visualization
-- **Seaborn** – Statistical visualization
-- **Power BI** – Interactive dashboards and reporting
-- **Tableau** – Data visualization and storytelling
+## Technical Stack
 
-### 🔹 Spreadsheet & Data Handling
-- **Microsoft Excel**
-  - Data cleaning and preparation
-  - Pivot Tables
-  - Formulas and functions
-  - Basic data analysis and summaries
+### Data Engineering & Pipelines
+- **Apache Airflow** — workflow orchestration and pipeline scheduling
+- **Apache Kafka** — event streaming and real-time data ingestion
+- **Apache Spark** — distributed data processing
+- **dbt (data build tool)** — data transformation and modeling in the warehouse
+- **Docker** — containerization and environment management
 
-### 🔹 Statistical & Analytical Skills
-- Descriptive Statistics
+### Data Warehousing & Storage
+- **PostgreSQL** — relational database and analytical queries
+- **Data Warehouse Design** — dimensional modeling, star/snowflake schemas
+- **ETL/ELT Architecture** — pipeline design patterns and best practices
+
+### Analytics & BI
+- **Python** — pandas, NumPy, SciPy for analysis and scripting
+- **SQL** — advanced queries, window functions, CTEs, performance optimization
+- **Power BI** — data modeling, DAX, interactive dashboards
+- **Tableau** — data visualization and storytelling
+- **Jupyter Notebook / Google Colab**
+
+### Statistical & Analytical Methods
 - Exploratory Data Analysis (EDA)
-- Distribution Analysis
-- Outlier Detection
-- Correlation & Relationship Analysis
-- Trend and Time-based Analysis
+- Descriptive & Inferential Statistics
+- Distribution Analysis & Outlier Detection
+- Correlation Analysis & Trend Identification
 - Data Cleaning and Preprocessing
-- Insight-driven statistical interpretation
 
-### 🔹 Tools & Workflow
-- **Jupyter Notebook**
-- **Git & GitHub** (version control)
-- **Google Colab** (when applicable)
+### Workflow & Collaboration
+- **Git & GitHub** — version control and project documentation
+- **Linux / Bash** — command-line operations
 
 ---
 
-## 📌 Professional Focus
-My work focuses on:
-- Strong **statistical reasoning**
-- Clear interpretation of analytical results
-- Translating data into actionable insights
-- Clean, well-documented, and structured analysis
+## What I Build
 
-All projects are presented in a **beginner-friendly yet professional manner**, emphasizing understanding over complexity.
+This portfolio contains end-to-end projects that reflect my work as an Analytics Engineer, including:
 
----
+- **Data pipelines** — ingestion, transformation, and loading workflows
+- **Warehouse models** — structured, query-ready data layers built with dbt
+- **Analytical dashboards** — BI reports translating data into decisions
+- **EDA & statistical analyses** — deep dives into real-world datasets
 
-## 🚀 Continuous Development
-I am actively enhancing my skills in:
-- Advanced statistics
-- SQL optimization and analytical queries
-- Business intelligence and dashboard design
-- Time series analysis
-- Data storytelling and reporting
+Each project folder contains:
+- A dedicated `README.md` with objective, methodology, and findings
+- Clean, well-documented code
+- Clear explanation of data modeling or pipeline design decisions
 
 ---
 
-## 📫 Contact
+## Focus Areas
 
-**Hanen El-Khishen**  
-*Data Analyst | Python | SQL | Statistics | Power BI | Tableau*
+- End-to-end pipeline design using open-source tools
+- Data warehouse modeling and optimization
+- Bridging raw data to business-ready analytical layers
+- Scalable, maintainable, and documented data workflows
 
-📧 **Email:** hanenelkhishen2025@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/hanenhosamelkhishen](https://www.linkedin.com/in/hanenhosamelkhishen/)
+---
 
-⭐ Explore individual project folders to find detailed analyses and project-specific documentation.
+## Contact
+
+**Hanen El-Khishen**
+*Analytics Engineer · Data Engineering · BI · Python · SQL*
+
+📧 hanenelkhishen2025@gmail.com
+💼 [linkedin.com/in/hanenhosamelkhishen](https://www.linkedin.com/in/hanenhosamelkhishen/)
