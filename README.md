@@ -44,11 +44,17 @@ I hold multiple professional certifications across data engineering and analytic
 - **Tableau** — data visualization and storytelling
 - **Jupyter Notebook / Google Colab**
 
+### Data Analysis & Visualization
+- **Matplotlib** — custom data visualization
+- **Seaborn** — statistical visualization
+- **Microsoft Excel** — pivot tables, advanced formulas, data cleaning
+
 ### Statistical & Analytical Methods
 - Exploratory Data Analysis (EDA)
 - Descriptive & Inferential Statistics
 - Distribution Analysis & Outlier Detection
 - Correlation Analysis & Trend Identification
+- Time Series Analysis
 - Data Cleaning and Preprocessing
 
 ### Workflow & Collaboration
