@@ -302,7 +302,7 @@ This project is part of the **IBM Data Engineering Professional Certificate** on
 ## 👤 Author
 
 **Hanen El-Khishen**
-- LinkedIn: (www.linkedin.com/in/hanenhosamelkhishen)
+- LinkedIn: www.linkedin.com/in/hanenhosamelkhishen
 
 ---
 
