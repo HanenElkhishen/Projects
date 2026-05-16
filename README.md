@@ -1,97 +1,117 @@
-# Hanen El-Khishen — Analytics Engineer Portfolio
+<h1 align="center">Hi, I'm Hanen El-Khishen 👋</h1>
 
-## About Me
+<p align="center">
+  <b>Analytics Engineer</b> · Data Pipelines · Business Intelligence · Statistical Analysis
+</p>
 
-I'm **Hanen El-Khishen**, an **Analytics Engineer** with a strong foundation in data engineering, business intelligence, and advanced analytics.
-
-My work sits at the intersection of **data engineering and analytics** — I design and build reliable data pipelines, model data for analytical use, and translate complex datasets into actionable business insights.
-
-I hold multiple professional certifications across data engineering and analytics, and I continuously deepen my expertise in open-source data stack tooling, warehouse design, and scalable pipeline architecture.
+<p align="center">
+  <a href="mailto:hanenelkhishen2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hanenelkhishen2025%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hanenhosamelkhishen/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hanen%20El--Khishen-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## Certifications
+## 👩‍💻 About Me
 
-| Certification | Issuer |
+I'm an **Analytics Engineer** working at the intersection of **data engineering and analytics**.  
+I design and build reliable data pipelines, model data for analytical use, and translate complex datasets into actionable business insights.
+
+---
+
+## 🎓 Certifications
+
+| Certificate | Issuer |
 |---|---|
-| Google Advanced Data Analytics Professional | Google / Coursera |
-| IBM Data Engineer Professional Certificate | IBM / Coursera |
-| IBM Data Warehouse Engineer | IBM / Coursera |
-| ITI Business Intelligence Track — 120 Hours | Information Technology Institute |
-| DEPI Data Analytics Track — 6 Months | Digital Egypt Pioneers Initiative |
-| AI & Data Science Program — 4 Months | University of Tokyo |
+| 🏅 Google Advanced Data Analytics Professional | Google / Coursera |
+| 🏅 IBM Data Engineer Professional Certificate | IBM / Coursera |
+| 🏅 IBM Data Warehouse Engineer | IBM / Coursera |
+| 🏅 ITI Business Intelligence Track — 120 hours | Information Technology Institute |
+| 🏅 DEPI Data Analytics Track — 6 months | Digital Egypt Pioneers Initiative |
+| 🏅 AI & Data Science Program — 4 months | University of Tokyo |
 
 ---
 
-## Technical Stack
+## 🛠️ Technical Stack
 
-### Data Engineering & Pipelines
-- **Apache Airflow** — workflow orchestration and pipeline scheduling
-- **Apache Kafka** — event streaming and real-time data ingestion
-- **Apache Spark** — distributed data processing
-- **dbt (data build tool)** — data transformation and modeling in the warehouse
-- **Docker** — containerization and environment management
+### ⚙️ Data Engineering
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### Data Warehousing & Storage
-- **PostgreSQL** — relational database and analytical queries
-- **Data Warehouse Design** — dimensional modeling, star/snowflake schemas
-- **ETL/ELT Architecture** — pipeline design patterns and best practices
+### 🗄️ Data Warehousing & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-### Analytics & BI
-- **Python** — pandas, NumPy, SciPy for analysis and scripting
-- **SQL** — advanced queries, window functions, CTEs, performance optimization
-- **Power BI** — data modeling, DAX, interactive dashboards
-- **Tableau** — data visualization and storytelling
-- **Jupyter Notebook / Google Colab**
+> Dimensional modeling · Star & snowflake schemas · ETL/ELT design · Data warehouse architecture
 
-### Data Analysis & Visualization
-- **Matplotlib** — custom data visualization
-- **Seaborn** — statistical visualization
-- **Microsoft Excel** — pivot tables, advanced formulas, data cleaning
+### 📊 Analytics & BI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-### Statistical & Analytical Methods
-- Exploratory Data Analysis (EDA)
-- Descriptive & Inferential Statistics
-- Distribution Analysis & Outlier Detection
-- Correlation Analysis & Trend Identification
-- Time Series Analysis
-- Data Cleaning and Preprocessing
+### 🔬 Data Analysis & Visualization
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-### Workflow & Collaboration
-- **Git & GitHub** — version control and project documentation
-- **Linux / Bash** — command-line operations
+### 📐 Statistical & Analytical Methods
+> Exploratory Data Analysis (EDA) · Descriptive & Inferential Statistics · Distribution Analysis  
+> Outlier Detection · Correlation Analysis · Time Series Analysis · Data Cleaning & Preprocessing
 
----
-
-## What I Build
-
-This portfolio contains end-to-end projects that reflect my work as an Analytics Engineer, including:
-
-- **Data pipelines** — ingestion, transformation, and loading workflows
-- **Warehouse models** — structured, query-ready data layers built with dbt
-- **Analytical dashboards** — BI reports translating data into decisions
-- **EDA & statistical analyses** — deep dives into real-world datasets
-
-Each project folder contains:
-- A dedicated `README.md` with objective, methodology, and findings
-- Clean, well-documented code
-- Clear explanation of data modeling or pipeline design decisions
+### 🔧 Workflow & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 
 ---
 
-## Focus Areas
+## 📁 Repository Structure
 
-- End-to-end pipeline design using open-source tools
-- Data warehouse modeling and optimization
-- Bridging raw data to business-ready analytical layers
-- Scalable, maintainable, and documented data workflows
+Each folder in this repository represents an **individual project**.  
+Every project includes a dedicated `README.md` that covers:
+
+- 🎯 Project objective
+- 🗂️ Dataset overview
+- 🔧 Tools & methods used
+- 💡 Key findings and insights
+
+### Project types you'll find here:
+
+| Type | Description |
+|---|---|
+| 🔄 Data Pipelines | Ingestion, transformation & loading with open-source tools |
+| 🏗️ Warehouse Models | Structured, query-ready data layers built with dbt |
+| 📊 BI Dashboards | Interactive reports translating data into business decisions |
+| 🔬 EDA & Statistics | Deep-dive analyses on real-world datasets |
 
 ---
 
-## Contact
+## 📫 Contact
 
-**Hanen El-Khishen**
-*Analytics Engineer · Data Engineering · BI · Python · SQL*
+<p>
+  <a href="mailto:hanenelkhishen2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hanenelkhishen2025%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hanenhosamelkhishen/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hanen%20El--Khishen-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-📧 hanenelkhishen2025@gmail.com
-💼 [linkedin.com/in/hanenhosamelkhishen](https://www.linkedin.com/in/hanenhosamelkhishen/)
+---
+
+<p align="center">
+  ⭐ <i>Explore individual project folders for detailed documentation and analyses.</i>
+</p>
